@@ -1,6 +1,7 @@
 # Olá,
 Me chamo João, sou da capital de São Paulo estudo Engenharia da Computação na Universidade Federal de São Paulo em São José dos Campos! Atualmente Faço parte da...
 Procuro estágio! Não necessariamente remunerado, apenas quero experiencia na área.
+
 atensiosamente,
 
 JPontes
